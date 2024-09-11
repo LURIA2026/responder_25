@@ -1,0 +1,114 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '59177150144@s.whatsapp.net',
+    fromMe: false,
+    id: '9BFD2AFF10593D51CA785393F9DB3562',
+    participant: undefined
+  },
+  messageTimestamp: 1726089281,
+  pushName: 'Ge',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '59177150144'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4423257e-eba2-4227-adb4-d3ed5330b251',
+  keyword: 'key_a1bb0ef6-3ca3-4b3d-bd25-1e5c13a7ed64',
+  answer: '🙌 Hola te habla tu asistente *VIRTUAL*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7637e37be74b3d11ff14406d18a63cdc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59177150144@s.whatsapp.net',
+    fromMe: false,
+    id: '775966452B8EE66A3C947637AE952A35',
+    participant: undefined
+  },
+  messageTimestamp: 1726089285,
+  pushName: 'Ge',
+  broadcast: false,
+  message: Message {
+    conversation: 'Qr',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Qr',
+  from: '59177150144'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_49fedcce-fe7c-48ff-9fed-b12ea8d7be24',
+  keyword: 'key_6b381349-7867-4ceb-a749-e5c0193cc212',
+  answer: 'Ahi le envio el *QR* ',
+  options: {
+    media: 'https://www.ibolivia.org/wp-content/uploads/2019/10/escudo-de-bolivia.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 10,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'df1b6bfef0009cc65b16e1445caba7e1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59177150144@s.whatsapp.net',
+    fromMe: false,
+    id: '9AA7104DDDB41097B459D3A533FBE423',
+    participant: undefined
+  },
+  messageTimestamp: 1726089299,
+  pushName: 'Ge',
+  broadcast: false,
+  message: Message {
+    conversation: 'Qr',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Qr',
+  from: '59177150144'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_49fedcce-fe7c-48ff-9fed-b12ea8d7be24',
+  keyword: 'key_6b381349-7867-4ceb-a749-e5c0193cc212',
+  answer: 'Ahi le envio el *QR* ',
+  options: {
+    media: 'https://www.ibolivia.org/wp-content/uploads/2019/10/escudo-de-bolivia.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 10,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'df1b6bfef0009cc65b16e1445caba7e1'
+}
