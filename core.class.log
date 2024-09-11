@@ -2,10 +2,10 @@
   key: {
     remoteJid: '59177150144@s.whatsapp.net',
     fromMe: false,
-    id: '9BFD2AFF10593D51CA785393F9DB3562',
+    id: '63F1293562135C419110E8E801FB06AB',
     participant: undefined
   },
-  messageTimestamp: 1726089281,
+  messageTimestamp: 1726090718,
   pushName: 'Ge',
   broadcast: false,
   message: Message {
@@ -19,8 +19,8 @@
   from: '59177150144'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4423257e-eba2-4227-adb4-d3ed5330b251',
-  keyword: 'key_a1bb0ef6-3ca3-4b3d-bd25-1e5c13a7ed64',
+  ref: 'ans_8f5ba3cb-b360-442c-9892-86a8e8be39b2',
+  keyword: 'key_6e7f1feb-5830-4cee-a39c-601d29b62512',
   answer: '🙌 Hola te habla tu asistente *VIRTUAL*',
   options: {
     media: null,
@@ -34,16 +34,36 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '7637e37be74b3d11ff14406d18a63cdc'
+  refSerialize: '75ff52a90519dbedeb1bc905b703a38b'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '59177150144@s.whatsapp.net',
     fromMe: false,
-    id: '775966452B8EE66A3C947637AE952A35',
+    id: '40A41BD56AD2E3E7D8E6F150E56A7B60',
     participant: undefined
   },
-  messageTimestamp: 1726089285,
+  messageTimestamp: 1726090723,
+  pushName: 'Ge',
+  broadcast: false,
+  message: Message {
+    conversation: 'Qr',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Qr',
+  from: '59177150144'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59177150144@s.whatsapp.net',
+    fromMe: false,
+    id: 'DB44A1F7985D6789CD1CB0BB3FDCD387',
+    participant: undefined
+  },
+  messageTimestamp: 1726090735,
   pushName: 'Ge',
   broadcast: false,
   message: Message {
@@ -57,8 +77,8 @@
   from: '59177150144'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_49fedcce-fe7c-48ff-9fed-b12ea8d7be24',
-  keyword: 'key_6b381349-7867-4ceb-a749-e5c0193cc212',
+  ref: 'ans_12f43a2d-de97-4339-993f-b0600a050d37',
+  keyword: 'key_0bdb099c-cfef-4375-8a0d-a867e0da3d34',
   answer: 'Ahi le envio el *QR* ',
   options: {
     media: 'https://www.ibolivia.org/wp-content/uploads/2019/10/escudo-de-bolivia.jpg',
@@ -72,31 +92,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'df1b6bfef0009cc65b16e1445caba7e1'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '59177150144@s.whatsapp.net',
-    fromMe: false,
-    id: '9AA7104DDDB41097B459D3A533FBE423',
-    participant: undefined
-  },
-  messageTimestamp: 1726089299,
-  pushName: 'Ge',
-  broadcast: false,
-  message: Message {
-    conversation: 'Qr',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Qr',
-  from: '59177150144'
+  refSerialize: '1ab01b16502767e03942666ae3b06727'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_49fedcce-fe7c-48ff-9fed-b12ea8d7be24',
-  keyword: 'key_6b381349-7867-4ceb-a749-e5c0193cc212',
+  ref: 'ans_12f43a2d-de97-4339-993f-b0600a050d37',
+  keyword: 'key_0bdb099c-cfef-4375-8a0d-a867e0da3d34',
   answer: 'Ahi le envio el *QR* ',
   options: {
     media: 'https://www.ibolivia.org/wp-content/uploads/2019/10/escudo-de-bolivia.jpg',
@@ -110,5 +110,5 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'df1b6bfef0009cc65b16e1445caba7e1'
+  refSerialize: '1ab01b16502767e03942666ae3b06727'
 }
